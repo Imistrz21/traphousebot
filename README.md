@@ -9,10 +9,9 @@ Blancik Bot to bot do moderacji serwera Discord, oferujący funkcje ostrzegania,
 - Plik konfiguracyjny `config.json`
 
 
-Funkcje
-Komenda	Opis	Status wsparcia
-!warn @użytkownik [powód]	Ostrzega użytkownika	✅ Pełne wsparcie
-!unwarn @użytkownik	Usuwa ostrzeżenie	✅ Pełne wsparcie
-!pochwal @użytkownik	Przyznaje pochwałę	✅ Pełne wsparcie
-!stats @użytkownik	Wyświetla statystyki użytkownika	✅ Pełne wsparcie
-!traphouse stats	Pokazuje informacje o bocie	✅ Pełne wsparcie
+## Komendy:
+- !warn @użytkownik [powód]	Ostrzega użytkownika	✅ Pełne wsparcie
+- !unwarn @użytkownik	Usuwa ostrzeżenie	✅ Pełne wsparcie
+- !pochwal @użytkownik	Przyznaje pochwałę	✅ Pełne wsparcie
+- !stats @użytkownik	Wyświetla statystyki użytkownika	✅ Pełne wsparcie
+- !traphouse stats	Pokazuje informacje o bocie	✅ Pełne wsparcie
